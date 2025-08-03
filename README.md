@@ -50,4 +50,6 @@ As stated above, we see an expected bell curve of results in school ratings for 
 
 While we see a positive correlation in the Reading/Math scores and graduation rate, I am concered on the number of schools that scored in the range of 55 - 65 that also graduated at least 90% of the senior level class.  This is saying that about 60% of students are demonstrating proficiency or higher in Reading and Math but are still earning enough passing credits to graduate.  There are a number of factors to consider why the scores are low (poor test taking, low student input in the tests, lack of instructional expectation, emphasis to move students along).
 
+There was also a positive correlation in the Postsecondary Readiness and Graduation Rate data.  Students are college ready if they meet the expected benchmark score on either English, Math, OR Reading (only needs to meet one of three benchmarks).  Students are career ready if they complete at least two credits in a pathway AND completed a certification test.  It is positive to see that schools are scoring higher in the postsecondary readiness scores.  Although, students who are college bound only need to meet the benchmark in one of three subjects is concerning.
+
 Through the function, I found that only 5 out of 228 high schools scored an overall indicator rating of 90 or higher.  
