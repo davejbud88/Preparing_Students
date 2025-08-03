@@ -14,6 +14,15 @@ In order to run this project:
 5. Open 'School_Data.ipynb'
 6. Click Run All.
 
+# Data Sources
+Data in this project comes from the Kentucky Department of Education
+https://kdeschoolreportcard.blob.core.windows.net/datasets/KYRC24_ACCT_Profile.csv
+
+and 
+
+https://kdeschoolreportcard.blob.core.windows.net/datasets/KYRC24_SAFE_Behavior_Events_by_Grade_Level.csv
+
+
 # Technologies Used
 The project was developed using Jupyter Notebooks for a clean and organized presentation of the code.  Pandas was used to narrow down the data set.  I needed to focus on 'All Students' for only the high schools.  I created some functions for us to search for more specific school data and results.  Tables and visualizations were created using numpy, and matplotlib.
 
