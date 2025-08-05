@@ -9,10 +9,12 @@ In order to run this project:
 
 1. Clone the repository.
 2. Save the Folder.
-3. Open Jupyter Notebook from the command line or start menu.
-4. Go to the where you saved the notebook.
-5. Open 'School_Data.ipynb'
-6. Click Run All.
+3. Run pip install -r requirements.txt
+4. Open Jupyter Notebook from the command line or start menu.
+5. Go to the where you saved the notebook.
+6. Open 'School_Data.ipynb'
+7. Click Run All.
+
 
 # Data Sources
 Data in this project comes from the Kentucky Department of Education
